@@ -57,7 +57,7 @@ communication happens ONLY through the contract in `src/types/index.ts` and the
 `localStorage['zenith_observer']` key. If your IDE wants to modify a file
 outside your boundary, stop and ask the owner first.
 
-### Person 1 — Globe, Routing, Deployment (the Integrator)
+### Person 1 (Nipun)  — Globe, Routing, Deployment (the Integrator)
 **Owns:**
 - `src/app/page.tsx` (location selection page)
 - `src/components/Globe/CesiumGlobe.tsx`
