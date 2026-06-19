@@ -64,7 +64,7 @@ outside your boundary, stop and ask the owner first.
 - `next.config.mjs` (already locked — just owns merge authority over it)
 - Vercel project + environment variables
 - Daily merge of `feat/skydome` and `feat/analytics` into `main`
-- Final integration: wiring `/sky` page to assemble SkyDome + Dashboard + ObservabilityScore together
+- Final integration: wiring `/sky` page to assemble SkyDome + Dashboard + ObservabilityScore together..
 
 **PRD sections:** 5, 6, 16
 
