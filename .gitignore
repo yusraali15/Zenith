@@ -1,0 +1,19 @@
+# Node
+node_modules/
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env.local
+.env.*.local
+
+# Mac
+.DS_Store
+
+# Editor
+.vscode/

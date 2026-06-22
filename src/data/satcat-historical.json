@@ -1,0 +1,10 @@
+[
+  { "year": 2019, "total": 5, "active": 4, "label": "2019" },
+  { "year": 2020, "total": 8, "active": 6, "label": "2020" },
+  { "year": 2021, "total": 12, "active": 9, "label": "2021" },
+  { "year": 2022, "total": 16, "active": 13, "label": "2022" },
+  { "year": 2023, "total": 21, "active": 17, "label": "2023" },
+  { "year": 2024, "total": 27, "active": 22, "label": "2024" },
+  { "year": 2025, "total": 33, "active": 27, "label": "2025" },
+  { "year": 2026, "total": 39, "active": 32, "label": "2026" }
+]

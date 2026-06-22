@@ -1,0 +1,7 @@
+[
+  { "lat": 19.07, "lng": 72.87, "scale": 5, "label": "Inner suburb" },
+  { "lat": 13.08, "lng": 80.27, "scale": 6, "label": "Urban" },
+  { "lat": 40.71, "lng": -74.0, "scale": 8, "label": "Bright city" },
+  { "lat": 51.5, "lng": -0.12, "scale": 8, "label": "Bright city" },
+  { "lat": 35.68, "lng": 139.69, "scale": 9, "label": "Very bright city" }
+]
