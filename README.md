@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zenith
 
 Project Zenith is a Next.js app for selecting a location and viewing a live sky dome with satellites, planets, and analytics.
@@ -42,3 +43,6 @@ Project Zenith is a Next.js app for selecting a location and viewing a live sky 
 
 - The project is already created in this workspace, but I cannot host it directly from this environment.
 - If you want, I can also generate a GitHub Actions workflow for deployment.
+=======
+# Zenith
+>>>>>>> ba507cf1e2accb7d2eead96aebbcecf9e80f302b
